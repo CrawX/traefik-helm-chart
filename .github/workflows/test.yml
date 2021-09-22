@@ -12,7 +12,7 @@ jobs:
     env:
       TMPDIR: /tmp
       ARCH: amd64
-      CATTLE_HELM_UNITTEST_VERSION: v0.1.6-rancher1
+      CATTLE_HELM_UNITTEST_VERSION: v0.1.7-rancher3
 
     steps:
 
